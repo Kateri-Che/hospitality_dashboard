@@ -1,3 +1,5 @@
+## Дашборд для сети загородных отелей
+
 ### Контекст
 Требовалось построить дашборд для сети загородных отелей ([посмотреть проект](https://public.tableau.com/app/profile/ekaterina.chezhina/viz/Hospitality_17235860333150/Hospitality)). 
 
